@@ -1,8 +1,8 @@
 {
-  "Version": "1.1.54",
+  "Version": "1.1.55",
   "ReleaseNotes": "ATUALIZAÇÃO\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
 🚀 NICK NET🚀
-    🆚 Versão: 1.1.54\n
+    🆚 Versão: 1.1.55\n
 •••
 ===============================",
   "UrlUpdate": "https://raw.githubusercontent.com/Lockednet/update/main/config.json",
@@ -43,7 +43,7 @@
   ],
   "Networks": [
 {
-"Name": "⚡𝗩𝗜𝗩𝗢 1✓",
+"Name": "⚡𝗩𝗜𝗩𝗢",
       "FLAG": "vivo",
       "Payload": "GET wss://lojaempresas.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "lojaempresas.vivo.com.br",
