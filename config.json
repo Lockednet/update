@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.60",
+  "Version": "1.1.61",
   "ReleaseNotes": "ATUALIZAÇÃO\n •••••••••••••••••••••••••••••••••••••••••••••••••\n
 NICK NET
     🆚 Versão: 1\n
@@ -22,7 +22,7 @@ NICK NET
       "Name": "SERVIDOR 1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.nicknet.online",
+      "ServerIP": "rho.lockedssh.online",
       "CheckUser": "http://209.14.70.170:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
